@@ -2,3 +2,5 @@ This is for diffs.
 This is to check staging diff between same file  in same branch efore and after staging. 
 Adding line in b2 to conflict.
 iigore above line. adding change to b1 for conflict.
+
+Dang, this is confusing.
