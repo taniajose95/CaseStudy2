@@ -3,3 +3,7 @@ This is to check staging diff between same file  in same branch efore and after 
 Adding line in b2 to conflict.
 Conflict change made in b2
 iigore above line. adding change to b1 for conflict.
+
+
+
+Oh Man, this is annoying
